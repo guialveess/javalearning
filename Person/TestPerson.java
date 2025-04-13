@@ -1,4 +1,4 @@
-package person;
+package Person;
 
 // Aprendendo extends que é herança
 // Aluno e Professor herdam de Pessoa
@@ -6,7 +6,7 @@ package person;
 
 public class TestPerson extends Person{
     public static void main(String[] args) {
-        Professor professor = new Professor();
+        Professor professor = new Professor(); // Construtor padrão
         professor.setCpf("123.434.212-12");
         professor.setNome("Gustavo");
         professor.setSobrenome("Alves");

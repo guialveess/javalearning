@@ -1,4 +1,4 @@
-package person;
+package Person;
 
 public class Person {
     //nome, idade, cpf

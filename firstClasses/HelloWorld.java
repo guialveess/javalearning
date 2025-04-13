@@ -18,6 +18,8 @@ public static void main(String[] args) {
     //float dadoDoTipoFloat = 3.14f;
     //long dadoDoTipoLong = 10000000000L;
     String dadoDoTipoString = "Hello World";
+
+    //System.out.println(dadoDoTipoString.getBytes());
     //boolean dadoDoTipoBoolean = true;
 
     System.out.print(dadoDoTipoString);
